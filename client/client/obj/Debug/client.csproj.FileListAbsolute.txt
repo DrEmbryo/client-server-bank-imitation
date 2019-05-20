@@ -1,0 +1,7 @@
+C:\Users\mcred\source\repos\client\client\bin\Debug\client.exe.config
+C:\Users\mcred\source\repos\client\client\bin\Debug\client.exe
+C:\Users\mcred\source\repos\client\client\bin\Debug\client.pdb
+C:\Users\mcred\source\repos\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\mcred\source\repos\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\mcred\source\repos\client\client\obj\Debug\client.exe
+C:\Users\mcred\source\repos\client\client\obj\Debug\client.pdb
